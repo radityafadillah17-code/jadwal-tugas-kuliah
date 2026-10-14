@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "mata_kuliah": "PSD",
+        "nama_tugas": "Tugas Individu",
+        "link_pengumpulan": "https://forms.gle/Bn9SkaMhxroL9KUK6",
+        "tenggat": "2026-10-20 11:00",
+        "selesai": false,
+        "tanggal_selesai": "-"
+    }
+]
